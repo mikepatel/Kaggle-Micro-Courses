@@ -5,4 +5,4 @@ Repository for Kaggle Micro Courses mini projects
 * [Kaggle Micro Courses](https://www.kaggle.com/learn/overview)
 
 ## Mini Projects
-* [Python]()
+* [Python](https://github.com/mikepatel/Kaggle-Micro-Courses/tree/master/Python)
