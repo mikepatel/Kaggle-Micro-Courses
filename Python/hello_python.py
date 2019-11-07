@@ -26,3 +26,9 @@ def least_difference(a, b, c):
 
 # define docstring first, so that help() will display docstring
 help(least_difference)
+
+
+# IN PYTHON, LISTS ARE MUTABLE i.e. CAN BE MODIFIED "IN PLACE"
+# TUPLES ARE IMMUTABLE i.e. CANNOT BE MODIFIED
+# list.index()
+# tuples often used for functions that have multiple return values
